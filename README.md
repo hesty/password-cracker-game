@@ -1,16 +1,44 @@
-# password_cracker_game
+# Password Cracker Game
 
-A new Flutter project.
+A simple password cracker game
 
-## Getting Started
+## Run App
 
-This project is a starting point for a Flutter application.
+Clone the repo
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+  git clone https://github.com/hesty/password-cracker-game.git
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Go to the project directory
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+  cd password-cracker-game
+```
+
+Install dependencies
+
+```bash
+  flutter pub get
+```
+
+Run simulator or emulator
+
+- IOS
+```bash
+  open -a simulator 
+```
+- Android
+
+```bash
+  emulator -list-avds
+  emulator @{AVD NAME}
+```
+
+Run the app
+
+```bash
+  flutter run
+```
+  
+
