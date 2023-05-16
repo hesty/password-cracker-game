@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:password_cracker_game/game_view.dart';
 
 void main() => runApp(const MyApp());
 
@@ -7,16 +8,9 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return const MaterialApp(
       title: 'Password Cracker Game',
-      home: Scaffold(
-        appBar: AppBar(
-          title: const Text('Material App Bar'),
-        ),
-        body: const Center(
-          child: Text('Hello World'),
-        ),
-      ),
+      home: GameView(),
     );
   }
 }
