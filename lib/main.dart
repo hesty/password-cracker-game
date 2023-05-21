@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:password_cracker_game/game_view.dart';
+import 'package:password_cracker_game/view/game_view.dart';
 
 void main() => runApp(const MyApp());
 
