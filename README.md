@@ -1,4 +1,4 @@
-# Password Cracker Game <a href="https://github.com/hesty/password-cracker-game/raw/main/apk/app-release.apk" target="_blank"><img src="https://github.com/hesty/password-cracker-game/assets/61988280/ba0fab14-8ee2-41fc-a7a1-2f025a56be1f" align =right width = 360px height = 100 ></img></a>
+# Password Cracker Game <a href="https://github.com/hesty/password-cracker-game/raw/main/apk/app-release.apk" target="_blank"><img src="https://github.com/hesty/password-cracker-game/assets/61988280/b4595d7d-cc4e-4279-b837-46908e85cf6b" align =right width = 360px height = 100 ></img></a>
 
 A simple password cracker game for YMH459 lesson
 
@@ -6,8 +6,8 @@ A simple password cracker game for YMH459 lesson
 
 <table>
   <tr>
-    <td><img src="https://github.com/hesty/password-cracker-game/assets/61988280/2401b392-eaca-4bd5-a991-4992b8491237"  alt="iOS" width = 360px height = 720 ><div align=center>iOS</div></td>
-    <td><img src="https://github.com/hesty/password-cracker-game/assets/61988280/8a68744b-eb51-41a3-8b47-81749d7ad6a7" alt="android" width = 360px height = 720><div align=center>Android</div></td>
+    <td><img src="https://github.com/hesty/password-cracker-game/assets/61988280/47c3e06f-a944-4911-b96e-2c55a6108eb9"  alt="iOS" width = 360px height = 720 ><div align=center>iOS</div></td>
+    <td><img src="https://github.com/hesty/password-cracker-game/assets/61988280/16e69a04-6d9d-413b-8cb9-d7b4cbf8fb54" alt="android" width = 360px height = 720><div align=center>Android</div></td>
    </tr> 
 </table>
 
